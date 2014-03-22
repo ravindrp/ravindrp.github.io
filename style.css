@@ -5,3 +5,8 @@ table tr th {
   background-color:blue; 
   color:white; }
 table tr td {font-weight:bold;}
+table tr th#head1 {
+  background-color: yellow; 
+  color:black;}
+  
+#main-content{width: 800px;}
